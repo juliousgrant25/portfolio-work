@@ -27,7 +27,7 @@ The dashboard explores Netflix's catalog to uncover insights about content trend
 - Version Control (Git/GitHub)
 
 ### Files 
-[NetflixDashboard.pbix](https://github.com/juliousgrant25/portfolio-work/blob/master/NetflixDashboard.pbix) - Interactive Dashboard
+[Download NetflixDashboard.pbix](https://github.com/juliousgrant25/portfolio-work/raw/master/NetflixDashboard.pbix) - Interactive Dashboard
 
 ### Dashboard Preview 
 <img width="975" height="541" alt="image" src="https://github.com/user-attachments/assets/aa5eed73-dbfe-47db-8cd8-4e5e7ee53611" />
